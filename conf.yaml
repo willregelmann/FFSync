@@ -1,0 +1,7 @@
+backupLocation: 'G:\My Drive\Backup\FFXIV'
+characterSync:
+- ADDON
+- COMMON
+- CONTROL0
+- CONTROL1
+- KEYBIND
